@@ -1,0 +1,5 @@
+﻿  Character_string.cpp
+C:\Users\Asus\Desktop\ООП 1.2\lab 1.2\Character_string.cpp(17,7): warning C4101: z: неиспользованная локальная переменная
+C:\Users\Asus\Desktop\ООП 1.2\lab 1.2\Character_string.cpp(17,10): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Asus\Desktop\ООП 1.2\lab 1.2\Character_string.cpp(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+  lab 1.2.vcxproj -> C:\Users\Asus\Desktop\ООП 1.2\lab 1.2\Debug\lab 1.2.exe
